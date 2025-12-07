@@ -1,6 +1,6 @@
 # Basic Site Sitting
 locale               : "en-US"
-# site-theme          : "default"
+site-theme          : "default"
 title                : "MUTH Boravy"
 title_separator      : "-"
 name                 : &name "MUTH Boravy"
