@@ -1,12 +1,12 @@
 # Basic Site Sitting
-locale               : "en-US"
-site-theme          : "default"
+# locale               : "en-US"
+# site-theme          : "default"
 title                : "MUTH Boravy"
-title_separator      : "-"
-name                 : &name "MUTH Boravy"
+# title_separator      : "-"
+# name                 : &name "MUTH Boravy"
 # description          : &description 
-url                  : https://muthboravy007.github.io/muthboravy
-baseurl              : ""
+url                  : https://muthboravy007.github.io/ravy1991.github.io/
+# baseurl              : ""
 # repos
 # logo: /assets/img/...png
 descritpion: PhD in Nuclear Engineering
