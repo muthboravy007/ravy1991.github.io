@@ -7,7 +7,7 @@ name                 : &name "MUTH Boravy"
 # description          : &description 
 url                  : https://muthboravy007.github.io/muthboravy
 baseurl              : ""
-repos
+# repos
 # logo: /assets/img/...png
 descritpion: PhD in Nuclear Engineering
 show_download: true
