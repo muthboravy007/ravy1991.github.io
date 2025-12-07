@@ -4,6 +4,17 @@ descritpion      : PhD in Nuclear Engineering
 show_download    : true
 theme            : jekyll-theme-minimal
 
-url              : https://muthboravy007.github.io/ravy1991.github.io
-baseurl          : ""
-repository       : "https://muthboravy007/ravy1991.github.io"
+#url              : https://muthboravy007.github.io/ravy1991.github.io
+#baseurl          : ""
+#repository       : "https://muthboravy007/ravy1991.github.io"
+
+author: 
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Institute Of Technology of Cambodia (ITC)"
+  uri              : # URL
+  email            : "muth.boravy@itc.edu.kh" 
