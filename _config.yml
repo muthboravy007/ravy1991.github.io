@@ -3,3 +3,7 @@ name             : "MUTH Boravy"
 descritpion      : PhD in Nuclear Engineering
 show_download    : true
 theme            : jekyll-theme-minimal
+
+url              : https://ravy1991.github.io
+baseurl          : ""
+repository       : "https://muthboravy007.github.io/ravy1991.github.io"
